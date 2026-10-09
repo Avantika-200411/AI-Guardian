@@ -153,9 +153,6 @@ B.Tech Computer Science and Engineering
 Specialization: Artificial Intelligence and Machine Learning  
 Haridwar University
 
-- GitHub: https://github.com/YOUR-USERNAME
-- LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN
-
 ## ⚠️ Disclaimer
 
 AI Guardian is an educational project under development. Hashing, face detection, and database records do not independently prove ownership or guarantee detection or prevention of unauthorized content use. Production-level monitoring and protection require further implementation, testing, and validation.
